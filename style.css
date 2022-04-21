@@ -8,9 +8,9 @@ html {
 
 .background {
   background: url(header.jpg) no-repeat center center fixed; 
-  width: 99%;
-  margin-left: 0.5%;
-  margin-right: 0.5%;
+  width: 95%;
+  margin-left: 2.5%;
+  margin-right: 2.5%;
   height: 800px;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -94,8 +94,8 @@ hr{
 }
 
 .container-1{
-  margin-left: 1.5rem;
-  margin-right: 1.5rem;
+  margin-left: 1rem ;
+  margin-right: 1rem ;
 }
 
 
